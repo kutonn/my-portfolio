@@ -57,7 +57,7 @@ import { ref } from 'vue'
 
 // Profile Data
 const profileName = ref('Elton Jhon Pabuayon')
-const profileRole = ref('Web Developer & Layout Designer')
+const profileRole = ref('Front-End Web Developer & Designer')
 
 // Contact Info
 const contactItems = ref([

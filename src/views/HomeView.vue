@@ -47,9 +47,9 @@
 <script setup>
 import { ref } from 'vue'
 
-const heroTitle = ref('Elton Jhon Pabuayon - Frontend Web Developer')
-const heroSubtitle = ref('Crafting pixel-perfect digital experiences')
-const aboutTitle = ref('Passionate Developer')
+const heroTitle = ref('Elton Jhon Pabuayon')
+const heroSubtitle = ref('Front-End Web Developer & Layout Designer')
+const aboutTitle = ref('Front-End Web Developer and Designer')
 const aboutDescription = ref('5+ years of experience in layout designs, and a year of experience in building/configuring responsive web applications, whether for school purposes, or just a hobby.')
 const skills = ref(['Vue.js', 'Node.js', 'Figma', 'TypeScript', 'Python', 'Android Studio', 'HTML', 'CSS', 'WordPress', 'Adobe Photoshop', 'Adobe InDesign', 'Adobe Illustrator', 'Canva'])
 </script>
