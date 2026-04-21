@@ -59,11 +59,12 @@ const projects = ref([
     categories: ['web', 'design'],
     liveDemo: 'https://your-live-link.com',
     github: 'https://github.com/kutonn/my-portfolio.git',
+    image: '/images/pweb1.png',
     screenshots: [
-    '/src/assets/images/pweb1.png',
-    '/src/assets/images/pweb2.png',
-    '/src/assets/images/pweb3.png',
-    '/src/assets/images/pweb4.png'
+    '/images/pweb1.png',
+    '/images/pweb2.png',
+    '/images/pweb3.png',
+    '/images/pweb4.png'
     ]
   },
   {
@@ -77,14 +78,15 @@ const projects = ref([
     github: null,
     liveLabel: 'View Designs',
     codeLabel: null,
+    image: '/images/project1.png',
     screenshots: [
-      '/src/assets/images/project1.png', 
-      '/src/assets/images/project2.png', 
-      '/src/assets/images/project3.png',
-      '/src/assets/images/project4.png',
-      '/src/assets/images/project5.png',
-      '/src/assets/images/project6.png',
-      '/src/assets/images/project7.png',
+      '/images/project1.png', 
+      '/images/project2.png', 
+      '/images/project3.png',
+      '/images/project4.png',
+      '/images/project5.png',
+      '/images/project6.png',
+      '/images/project7.png',
     ]
   },
   {
@@ -96,12 +98,13 @@ const projects = ref([
     categories: ['web', "mobile"],
     liveDemo: 'https://your-live-link.com',
     github: 'https://github.com/kutonn/Website.git',
+    image: '/images/swift1.png',
     screenshots: [
-      '/src/assets/images/swift1.png',
-      '/src/assets/images/swift2.png',
-      '/src/assets/images/swift3.png',
-      '/src/assets/images/swift4.png',
-      '/src/assets/images/swift5.png',
+      '/images/swift1.png',
+      '/images/swift2.png',
+      '/images/swift3.png',
+      '/images/swift4.png',
+      '/images/swift5.png',
     ]
   },
   {
@@ -113,14 +116,15 @@ const projects = ref([
     categories: ['web', 'mobile'],
     liveDemo: 'https://your-live-link.com',
     github: 'https://github.com/kutonn/LoginReg.git',
+    image: '/images/lr1.png',
     screenshots: [
-      '/src/assets/images/lr1.png',
-      '/src/assets/images/lr2.png',
-      '/src/assets/images/lr3.png',
-      '/src/assets/images/lr4.png',
-      '/src/assets/images/lr5.png',
-      '/src/assets/images/lr6.png',
-      '/src/assets/images/lr7.png',
+      '/images/lr1.png',
+      '/images/lr2.png',
+      '/images/lr3.png',
+      '/images/lr4.png',
+      '/images/lr5.png',
+      '/images/lr6.png',
+      '/images/lr7.png',
     ]
   },
   {
@@ -132,15 +136,16 @@ const projects = ref([
     categories: ['web', 'design'],
     liveDemo: 'https://your-live-link.com',
     github: 'https://github.com/kutonn/Prototype-Portfolio.git',
+    image: '/images/proto1.png',
     screenshots: [
-      '/src/assets/images/proto1.png',
-      '/src/assets/images/proto2.png',
-      '/src/assets/images/proto3.png',
-      '/src/assets/images/proto4.png',
-      '/src/assets/images/proto5.png',
-      '/src/assets/images/proto6.png',
-      '/src/assets/images/proto7.png',
-      '/src/assets/images/proto8.png',
+      '/images/proto1.png',
+      '/images/proto2.png',
+      '/images/proto3.png',
+      '/images/proto4.png',
+      '/images/proto5.png',
+      '/images/proto6.png',
+      '/images/proto7.png',
+      '/images/proto8.png',
     ]
   }
 ])
