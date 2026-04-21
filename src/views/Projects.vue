@@ -57,6 +57,8 @@ const projects = ref([
     image: '/images/project1.png',
     tech: ['Vue 3', 'Vite', 'CSS3'],
     categories: ['web', 'design'],
+    liveDemo: 'https://your-live-link.com',
+    github: 'https://github.com/kutonn/my-portfolio.git',
     screenshots: [
     '/public/pweb1.png',
     '/public/pweb2.png',
